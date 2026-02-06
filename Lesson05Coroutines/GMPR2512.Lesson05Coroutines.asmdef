@@ -1,0 +1,14 @@
+{
+    "name": "GMPR2512.Lesson05Coroutines",
+    "rootNamespace": "GMPR2512.Lesson05Coroutines",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
